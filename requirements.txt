@@ -1,0 +1,24 @@
+# 智能书架整理系统 - 依赖包
+# 核心依赖
+opencv-python>=4.8.0
+numpy>=1.21.0
+Pillow>=9.0.0
+
+# 机器学习
+scikit-learn>=1.0.0
+
+# YOLOv8 书脊检测
+ultralytics>=8.0.0
+
+# EasyOCR 文字识别
+easyocr>=1.7.0
+
+# Tesseract OCR (可选，备用)
+pytesseract>=0.3.10
+
+# 大模型API (可选)
+# openai>=1.0.0
+# dashscope>=1.14.0
+
+# 可视化
+matplotlib>=3.5.0
